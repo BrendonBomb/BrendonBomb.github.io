@@ -8,6 +8,7 @@ body {
 }
 h1 {
     font-family: 'PT Serif', serif;
+    margin-right: 40px;
 }
 li {
     display: inline;
