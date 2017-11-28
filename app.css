@@ -1,5 +1,5 @@
 header {
-    background: url("image/wood.png");
+    background: url('http://conversationsabouther.net/wp-content/uploads/2014/02/OBEY.jpg');
     background-size: cover;
     text-align: center;
 }
@@ -8,7 +8,7 @@ body {
 }
 h1 {
     font-family: 'PT Serif', serif;
-    margin-right: 40px;
+    color: white;
 }
 li {
     display: inline;
