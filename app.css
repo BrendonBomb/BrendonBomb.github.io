@@ -19,4 +19,5 @@ p {
 }
 .pics {
     border: dashed;
+    margin-left: 40px;
 }
