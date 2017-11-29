@@ -18,6 +18,9 @@ p {
     color: white;
 }
 .pics {
+    text-align: center;
+}
+img{
     border: dashed;
     margin-left: 40px;
 }
